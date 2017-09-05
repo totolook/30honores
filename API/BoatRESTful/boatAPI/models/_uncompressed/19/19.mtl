@@ -1,0 +1,604 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 16.08.2017 07:54:05
+
+newmtl Model001_1
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part41_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part41_d.jpg
+
+newmtl Model001_2
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part41_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part41_d.jpg
+
+newmtl Model001_3
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+
+newmtl Model001_4
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part39_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part39_d.jpg
+
+newmtl Model001_5
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part38_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part38_d.jpg
+
+newmtl Model001_6
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+
+newmtl Model001_7
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+
+newmtl Model001_8
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part35_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part35_d.jpg
+
+newmtl Model001_9
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+
+newmtl Model001_Materia
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part44_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part44_d.jpg
+
+newmtl Model00110
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+
+newmtl Model00111
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part32_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part32_d.jpg
+
+newmtl Model00112
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part31_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part31_d.jpg
+
+newmtl Model00113
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+
+newmtl Model00114
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part29_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part29_d.jpg
+
+newmtl Model00115
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part28_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part28_d.jpg
+
+newmtl Model00116
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part27_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part27_d.jpg
+
+newmtl Model00117
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part26_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part26_d.jpg
+
+newmtl Model00118
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part25_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part25_d.jpg
+
+newmtl Model00119
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part24_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part24_d.jpg
+
+newmtl Model00120
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part23_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part23_d.jpg
+
+newmtl Model00121
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part41_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part41_d.jpg
+
+newmtl Model00122
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+
+newmtl Model00123
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part20_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part20_d.jpg
+
+newmtl Model00124
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part19_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part19_d.jpg
+
+newmtl Model00125
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part11_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part11_d.jpg
+
+newmtl Model00126
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+
+newmtl Model00127
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+
+newmtl Model00128
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part11_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part11_d.jpg
+
+newmtl Model00129
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+
+newmtl Model00130
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part41_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part41_d.jpg
+
+newmtl Model00131
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part44_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part44_d.jpg
+
+newmtl Model00132
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part11_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part11_d.jpg
+
+newmtl Model00133
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+
+newmtl Model00134
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part9_di.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part9_di.jpg
+
+newmtl Model00135
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part8_di.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part8_di.jpg
+
+newmtl Model00136
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part7_di.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part7_di.jpg
+
+newmtl Model00137
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part6_di.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part6_di.jpg
+
+newmtl Model00138
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+
+newmtl Model00139
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part4_di.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part4_di.jpg
+
+newmtl Model00140
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+
+newmtl Model00141
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part2_di.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part2_di.jpg
+
+newmtl Model00142
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\19\19\part10_d.jpg

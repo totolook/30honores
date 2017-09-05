@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  ~ Hibernate, Relational Persistence for Idiomatic Java
+  ~
+  ~ License: GNU Lesser General Public License (LGPL), version 2.1 or later.
+  ~ See the lgpl.txt file in the root directory or <http://www.gnu.org/licenses/lgpl-2.1.html>.
+  -->
+<persistence xmlns="http://java.sun.com/xml/ns/persistence"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd"
+             version="2.0">
+
+    <persistence-unit name="entity.jpa">
+        
+        <description>
+            Persistence unit for the Boat Application
+        </description>
+
+        <class>entity.Utente</class>
+        <class>entity.Sede</class>
+        <class>entity.Prodotto</class>
+        <class>entity.Multimedia</class>
+        <class>entity.Magazzino</class>
+        <class>entity.Keyword</class>
+        <class>entity.Carrello</class>
+        <class>entity.Barca</class>
+
+        <properties>
+            <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />
+            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://mydb:3306/ecommercedb" />
+            <property name="javax.persistence.jdbc.user" value="root" />
+            <property name="javax.persistence.jdbc.password" value="VinniMosca69" />
+
+            <property name="hibernate.show_sql" value="true" />
+            <property name="hibernate.id.new_generator_mappings" value="false" />
+        </properties>
+
+    </persistence-unit>
+
+</persistence>

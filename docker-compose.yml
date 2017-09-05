@@ -1,0 +1,32 @@
+# Use root/example as user/password credentials
+version: '3.1'
+
+services:
+
+    mydb:
+        image: mysql
+        environment:
+            MYSQL_ROOT_PASSWORD: 'VinniMosca69'
+        
+        volumes:
+        - ./sql:/docker-entrypoint-initdb.d/
+
+    adminer:
+        image: adminer
+        ports:
+            - 8080:8080
+    30honores:
+        image: totolook/30honores
+        volumes:
+        - ./API:/usr/local/tomcat/webapps 
+        ports:
+            - 80:8080
+        depends_on:
+        - mydb
+    
+    websites:
+        image: nginx
+        ports:
+            - 81:80
+        volumes:
+        - ./BoatSites:/usr/share/nginx/html

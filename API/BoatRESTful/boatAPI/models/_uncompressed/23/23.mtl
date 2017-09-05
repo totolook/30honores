@@ -1,0 +1,310 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 16.08.2017 08:05:38
+
+newmtl QM_body
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_body.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_body.jpg
+
+newmtl _4___Default
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl QM_truba
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_truba.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_truba.jpg
+
+newmtl QM_elda_1
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_elda_.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_elda_.jpg
+
+newmtl QM_elda_2
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_elda1.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_elda1.jpg
+
+newmtl QM_zabor
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_zabor.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_zabor.jpg
+	map_d C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_zabor.jpg
+
+newmtl QM_niz
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM2_niz.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM2_niz.jpg
+
+newmtl QM_okna
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_okna.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_okna.jpg
+
+newmtl QM_paluba
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_palub.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_palub.jpg
+
+newmtl QM_bassein
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_basse.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_basse.jpg
+
+newmtl QM_paluba_doski
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_palu1.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_palu1.jpg
+
+newmtl QM_verh
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM2_verh.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM2_verh.jpg
+
+newmtl QM_zad
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_zad.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_zad.jpg
+
+newmtl QM_nos
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_nos.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_nos.jpg
+
+newmtl QM_bassein_water
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_bass1.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_bass1.jpg
+	map_d C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_bass1.jpg
+
+newmtl QM_lodki
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_lodki.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_lodki.jpg
+
+newmtl QM_lodki_blik
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_lodk1.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_lodk1.jpg
+
+newmtl QM_zabor_2
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_zabo1.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_zabo1.jpg
+	map_d C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_zabo1.jpg
+
+newmtl QM_zabor_3
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_zabo2.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_zabo2.jpg
+	map_d C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_zabo2.jpg
+
+newmtl QM_kort
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_kort.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_kort.jpg
+
+newmtl QM_l
+	Ns 23.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3059 0.3059 0.3059
+	Kd 0.3059 0.3059 0.3059
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_l.jpg
+	map_Kd C:\Users\Andrea\Desktop\models obj\not converted\23\23\ship\QM_l.jpg
+
+newmtl wire_214228153
+	Ns 40.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6745 0.7765 0.3255
+	Kd 0.6745 0.7765 0.3255
+	Ks 0.0980 0.0980 0.0980
+	Ke 0.0000 0.0000 0.0000
